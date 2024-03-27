@@ -29,7 +29,7 @@ List of challenge I solved
 | -------------   | -------------                       |
 | Forensics |[Scan Surprise](Forensics/scansurprise-solve.md)|
 | Forensics |[Verify](Forensics/verify-solve.md)|
-| Forensics |[CanYouSee](Forensics/canyousee.md)|
+| Forensics |[CanYouSee](Forensics/canyousee-solve.md)|
 | Forensics |[Secret of the Polyglot](Forensics/secretofthepolygot-solve.md)|
 | Binary Exploitation |[format string 0](Binary%20Exploitation/formatstring0-solve.md)|
 | Binary Exploitation |[heap 0](Binary%20Exploitation/heap0-solve.md)|
