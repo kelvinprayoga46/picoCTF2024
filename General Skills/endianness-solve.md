@@ -1,4 +1,4 @@
-# **Endianness**
+![image](https://github.com/kelvinprayoga46/picoCTF2024/assets/111831657/3b8ec921-a322-4d34-9e7b-6e1fe1bc38a5)# **Endianness**
 ## **Description**
 Know of little and big endian?
 ## **Hint**
@@ -80,6 +80,7 @@ int main() {
 - Copy the requested word from the challenge. then run it using the c script file that has been created
   ![endianness](./images/endianness2.PNG)
 - And We got the Flag
+  ![endianness](./images/endianness3.PNG)
 ```
 picoCTF{3ndi4n_sw4p_su33ess_817b7cfe}
 ```
