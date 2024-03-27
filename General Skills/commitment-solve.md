@@ -19,7 +19,7 @@ You download the challenge files here:
 ![commit3](./images/commit3.PNG)
 - The second commit seems suspicious, so I go to that repository with $ git checkout <id> then display the content message.txt once again with cat.
 
-![commit4](./images/commit4.PNG)
+  ![commit4](./images/commit4.PNG)
 - And We got the Flag
 ```
 picoCTF{s@n1t1z3_7246792d}
