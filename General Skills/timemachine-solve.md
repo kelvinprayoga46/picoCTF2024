@@ -11,11 +11,12 @@ You can download the challenge files here:
 ![time](./images/time.PNG)
 ## **Solution**
 - This challenge is the same type as Commitment Issues above the git challenge. First I downloaded the file and unzip it then dispay the content with cat
+
   ![time](./images/time1.PNG)
 - We are instructed to look for commit history. We can use $ git log for that
+
   ![time](./images/time2.PNG)
-So the flag is in the description when we commit the latest update in the repository
-  ![time](./images/time3.PNG)
+- So the flag is in the description when we commit the latest update in the repository
 - And We got the Flag
 ```
 picoCTF{t1m3m@ch1n3_5cde9075}
