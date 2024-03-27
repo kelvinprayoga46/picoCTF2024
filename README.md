@@ -11,8 +11,8 @@ List of challenge I solved
 | General Skills |[Blame Game](General%20Skills/blamegame-solve.md)|
 | General Skills |[Collaborative Development](General%20Skills/collaborative-solve.md)|
 | General Skills |[binhexa](General%20Skills/binhexa-solve.md)|
-| General Skills |[Binary Search] ()|
-| General Skills |[endianness] ()|
+| General Skills |[Binary Search](General%20Skills/binarysearch-solve.md)|
+| General Skills |[endianness](General%20Skills/endianness-solve.md)|
 | General Skills |[dont-you-love-banners] ()|
 
 ## **Week 2**
