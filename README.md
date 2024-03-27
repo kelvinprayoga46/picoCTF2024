@@ -5,12 +5,12 @@ List of challenge I solved
 ## **Week 1**
 | **Category**    | **Challenge**                       |
 | -------------   | -------------                       |
-| General Skills |[Super SSH] ()|
-| General Skills |[Commitment Issues] ()|
-| General Skills |[Time Machine] ()|
-| General Skills |[Blame Game] ()|
-| General Skills |[Collaborative Development] ()|
-| General Skills |[binhexa] ()|
+| General Skills |[Super SSH](General%20Skills/superssh-solve.md)|
+| General Skills |[Commitment Issues](General%20Skills/commit-solve.md)|
+| General Skills |[Time Machine](General%20Skills/timemachine-solve.md)|
+| General Skills |[Blame Game](General%20Skills/blamegame-solve.md)|
+| General Skills |[Collaborative Development](General%20Skills/collaborative-solve.md)|
+| General Skills |[binhexa](General%20Skills/binhexa-solve.md)|
 | General Skills |[Binary Search] ()|
 | General Skills |[endianness] ()|
 | General Skills |[dont-you-love-banners] ()|
