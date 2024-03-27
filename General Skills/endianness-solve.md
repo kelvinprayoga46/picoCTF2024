@@ -80,7 +80,8 @@ int main() {
 - Copy the requested word from the challenge. then run it using the c script file that has been created
   ![endianness](./images/endianness2.PNG)
 - And We got the Flag
-  ![endianness](./images/endianness3.PNG)
+
+![endianness](./images/endianness3.PNG)
 ```
 picoCTF{3ndi4n_sw4p_su33ess_817b7cfe}
 ```
