@@ -17,7 +17,7 @@ You can download the challenge files here:
 - I went into the logs directory and tried cat file HEAD
 ![game](./images/game2.PNG)
 - I tried looking at all the logs from the HEAD file and the flag is on the second line
-![game](./images/game3.PNG)
+
 - And We got the Flag
 ```
 picoCTF{@sk_th3_1nt3rn_e9957ce1}
