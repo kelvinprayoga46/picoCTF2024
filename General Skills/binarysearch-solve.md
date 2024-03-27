@@ -9,10 +9,10 @@ You can download the challenge files here:
 - You have a very limited number of guesses. Try larger jumps between numbers!
 - The program will randomly choose a new number each time you connect. You can always try again, but you should start your binary search over from the beginning - try around 500. Can you think of why?
   
-![binary](./images/binary.PNG)
+![binary](./images/binary1.PNG)
 ## **Solution**
 - In this challenge, I only guessed the numbers, starting from 500 and so on until I found the correct number.
-  ![binary](./images/binary1.PNG)
+  ![binary](./images/binary.PNG)
 - And We got the Flag
 ```
 picoCTF{b1tw^3se_0p3eR@tI0n_su33essFuL_6ab1ad84}
