@@ -7,7 +7,7 @@ You'll also need the password 1ad5be0d. If asked, accept the fingerprint with ye
 If your device doesn't have a shell, you can use: https://webshell.picoctf.org
 If you're not sure what a shell is, check out our Primer: https://primer.picoctf.com/#_the_shell
 
-![ssh](./images/Super\SSH.PNG)
+![ssh](./images/Super%SSH.PNG)
 ## **Solution**
 - On this challage we only need to do ssh on account that has been provided. 
 ![ssh1](./images/ssh1.PNG)
