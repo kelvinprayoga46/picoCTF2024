@@ -11,12 +11,22 @@ List of challenge I solved
 | General Skills |  |
 | General Skills |  |
 | General Skills |        |
+
 ## **Week 2**
 | **Category**    | **Challenge**                       |
 | -------------   | -------------                       |
 | Cryptograhpy ||
 | Cryptograhpy ||
-| Cryptograhpy ||
-| Cryptograhpy ||
-| Cryptograhpy ||
-| Forensics   ||
+| Web Exploitation ||
+| Web Exploitation ||
+| Web Exploitation ||
+
+## **Week 3**
+| **Category**    | **Challenge**                       |
+| -------------   | -------------                       |
+| Forensics ||
+| Forensics ||
+| Forensics ||
+| Forensics ||
+| Binary Exploitation ||
+| Binary Exploitation ||
