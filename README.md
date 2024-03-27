@@ -18,8 +18,8 @@ List of challenge I solved
 ## **Week 2**
 | **Category**    | **Challenge**                       |
 | -------------   | -------------                       |
-| Cryptography |[interencdec](Cryptography/interencdec-solve.md)|
-| Cryptography |[Custom encryption](Cryptography/customencryption-solve.md)|
+| Cryptography |[Interencdec](Cryptography/interencdec-solve.md)|
+| Cryptography |[Custom Encryption](Cryptography/customencryption-solve.md)|
 | Web Exploitation |[Bookmarklet](Web%20Exploitation/bookmarklet-solve.md)|
 | Web Exploitation |[WebDecode](Web%20Exploitation/webdecode-solve.md)|
 | Web Exploitation |[Unminify](Web%20Exploitation/unminify-solve.md)|
@@ -31,8 +31,8 @@ List of challenge I solved
 | Forensics |[Verify](Forensics/verify-solve.md)|
 | Forensics |[CanYouSee](Forensics/canyousee-solve.md)|
 | Forensics |[Secret of the Polyglot](Forensics/secretofthepolygot-solve.md)|
-| Binary Exploitation |[format string 0](Binary%20Exploitation/formatstring0-solve.md)|
-| Binary Exploitation |[heap 0](Binary%20Exploitation/heap0-solve.md)|
+| Binary Exploitation |[Format String 0](Binary%20Exploitation/formatstring0-solve.md)|
+| Binary Exploitation |[Heap 0](Binary%20Exploitation/heap0-solve.md)|
 
 
 
