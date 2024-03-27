@@ -18,6 +18,7 @@ You download the challenge files here:
 - Then I run the commands $ git log to see all the “save point” and the commit id
 ![commit3](./images/commit3.PNG)
 - The second commit seems suspicious, so I go to that repository with $ git checkout <id> then display the content message.txt once again with cat.
+![commit4](./images/commit4.PNG)
 - And We got the Flag
 ```
 picoCTF{s@n1t1z3_7246792d}
