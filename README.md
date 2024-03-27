@@ -20,7 +20,7 @@ List of challenge I solved
 | -------------   | -------------                       |
 | Cryptography |[interencdec](Cryptography/interencdec-solve.md)|
 | Cryptography |[Custom encryption](Cryptography/customencryption-solve.md)|
-| Web Exploitation |[Bookmarklet](Cryptography/bookmarklet-solve.md)|
+| Web Exploitation |[Bookmarklet](Web%20Explotation/bookmarklet-solve.md)|
 | Web Exploitation |[WebDecode](Web%20Exploitation/webdecode-solve.md)|
 | Web Exploitation |[Unminify](Web%Exploitation/unminify-solve.md)|
 
