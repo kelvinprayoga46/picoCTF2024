@@ -9,6 +9,7 @@ If you're not sure what a shell is, check out our Primer: https://primer.picoctf
 
 ![ssh](./images/Super%20SSH.PNG)
 ## **Solution**
+```
 - On this challage we only need to do ssh on account that has been provided. 
 ![ssh1](./images/ssh1.PNG)
 ```
