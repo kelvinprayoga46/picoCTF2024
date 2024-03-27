@@ -34,22 +34,3 @@ List of challenge I solved
 | Binary Exploitation |[format string 0] ()|
 | Binary Exploitation |[heap 0] ()|
 
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Challenge</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#f7c6c5;">General Skills</td>
-      <td style="background-color:#f7c6c5;"><a href="General%20Skills/superssh-solve.md">Super SSH</a></td>
-    </tr>
-    <tr>
-      <td style="background-color:#f7d5f2;">General Skills</td>
-      <td style="background-color:#f7d5f2;"><a href="General%20Skills/commit-solve.md">Commitment Issues</a></td>
-    </tr>
-    <!-- Sisipkan baris-baris berikutnya sesuai kebutuhan -->
-  </tbody>
-</table>
