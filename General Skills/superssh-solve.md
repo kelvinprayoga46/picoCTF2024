@@ -1,5 +1,4 @@
 # **Super SSH**
-Sanity check adalah proses pemeriksaan dan validasi awal terhadap input atau data untuk memastikan bahwa input tersebut memenuhi persyaratan dasar atau logika yang diharapkan. Sanity check digunakan untuk memverifikasi apakah input atau data tersebut masuk akal, konsisten, atau valid sebelum melanjutkan ke langkah-langkah atau pemrosesan selanjutnya.
 ## **Description**
 Using a Secure Shell (SSH) is going to be pretty important. 
 Can you ssh as ctf-player to titan.picoctf.net at port 60572 to get the flag?
