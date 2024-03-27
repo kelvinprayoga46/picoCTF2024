@@ -20,17 +20,17 @@ To connect to the running application use nc tethys.picoctf.net 53223. From the 
   ![banner](./images/banner2.PNG)
 - After logging in, try the ls command to see the contents of the root directory like this ```ls -la /root```
 
-  ![banner](./images/banner.PNG)
+  ![banner](./images/banner3.PNG)
 - We are not given access to read the flag.txt file in the root directory
 
-  ![banner](./images/banner3.PNG)
+  ![banner](./images/banner4.PNG)
 - Instead we will use softlink / symslink to redirect the contents of flag.txt to the banner file with the command ```ln -s /root/flag.txt banner```
 - Delete the previous banner file using the ``rm -rf banner`` command first
 
-  ![banner](./images/banner4.PNG)
+  ![banner](./images/banner5.PNG)
 - Try to connect it again then the flag will be visible in the banner
 
-  ![banner](./images/banner5.PNG)
+  ![banner](./images/banner6.PNG)
 - And We got the Flag
 ```
 picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_b3ee718e}
