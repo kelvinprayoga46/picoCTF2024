@@ -6,7 +6,7 @@ List of challenge I solved
 | **Category**    | **Challenge**                       |
 | -------------   | -------------                       |
 | General Skills |[Super SSH](General%20Skills/superssh-solve.md)|
-| General Skills |[Commitment Issues](General%20Skills/commit-solve.md)|
+| General Skills |[Commitment Issues](General%20Skills/commitment-solve.md)|
 | General Skills |[Time Machine](General%20Skills/timemachine-solve.md)|
 | General Skills |[Blame Game](General%20Skills/blamegame-solve.md)|
 | General Skills |[Collaborative Development](General%20Skills/collaborative-solve.md)|
