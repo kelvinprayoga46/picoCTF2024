@@ -1,4 +1,4 @@
-![image](https://github.com/kelvinprayoga46/picoCTF2024/assets/111831657/3b8ec921-a322-4d34-9e7b-6e1fe1bc38a5)# **Endianness**
+#**Endianness**
 ## **Description**
 Know of little and big endian?
 ## **Hint**
