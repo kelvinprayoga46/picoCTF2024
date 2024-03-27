@@ -10,6 +10,7 @@ If you're not sure what a shell is, check out our Primer: https://primer.picoctf
 - You can try logging in 'as' someone with <user>@titan.picoctf.net
 - How could you specify the port?
 - Remember, passwords are hidden when typed into the shell
+  
 ![ssh](./images/Super%20SSH.PNG)
 ## **Solution**
 - On this challage we only need to do ssh on account that has been provided.
