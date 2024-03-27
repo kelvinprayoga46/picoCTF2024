@@ -1,7 +1,9 @@
 # **Time Machine**
 ## **Description**
-What was I last working on? I remember writing a note to help me remember \n
-You can download the challenge files here: \n
+What was I last working on? I remember writing a note to help me remember
+
+You can download the challenge files here:
+
 [challenge.zip](https://artifacts.picoctf.net/c_titan/67/challenge.zip)
 ## **Hint**
 - The cat command will let you read a file, but that won't help you here!
