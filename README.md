@@ -13,7 +13,7 @@ List of challenge I solved
 | General Skills |[Binhexa](General%20Skills/binhexa-solve.md)|
 | General Skills |[Binary Search](General%20Skills/binarysearch-solve.md)|
 | General Skills |[Endianness](General%20Skills/endianness-solve.md)|
-| General Skills |[Dont-You-Love-Banners] ()|
+| General Skills |[Dont-You-Love-Banners](General%20Skills/dontyoulovebanner-solve.md)|
 
 ## **Week 2**
 | **Category**    | **Challenge**                       |
@@ -34,9 +34,5 @@ List of challenge I solved
 | Binary Exploitation |[format string 0] ()|
 | Binary Exploitation |[heap 0] ()|
 
-| Category       | Challenge                          |
-| -------------- | ---------------------------------- |
-| <span style="background-color:#f7c6c5;">General Skills</span> | <span style="background-color:#f7c6c5;">[Super SSH](General%20Skills/superssh-solve.md)</span> |
-| <span style="background-color:#f7d5f2;">General Skills</span> | <span style="background-color:#f7d5f2;">[Commitment Issues](General%20Skills/commit-solve.md)</span> |
 
 
