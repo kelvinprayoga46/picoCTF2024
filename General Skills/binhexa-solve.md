@@ -16,5 +16,5 @@ Start searching for the flag here nc titan.picoctf.net 50971
   ![binhexa](./images/binhexa3.PNG)
 - And We got the Flag
 ```
-picoCTF{@sk_th3_1nt3rn_e9957ce1}
+picoCTF{b1tw^3se_0p3eR@tI0n_su33essFuL_6ab1ad84}
 ```
