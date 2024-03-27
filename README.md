@@ -5,12 +5,15 @@ List of challenge I solved
 ## **Week 1**
 | **Category**    | **Challenge**                       |
 | -------------   | -------------                       |
-| General Skills |        |
-| General Skills |    |
-| General Skills |        |
-| General Skills |  |
-| General Skills |  |
-| General Skills |        |
+| General Skills ||
+| General Skills ||
+| General Skills ||
+| General Skills ||
+| General Skills ||
+| General Skills ||
+| General Skills ||
+| General Skills ||
+| General Skills ||
 
 ## **Week 2**
 | **Category**    | **Challenge**                       |
