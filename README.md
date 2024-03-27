@@ -10,10 +10,10 @@ List of challenge I solved
 | General Skills |[Time Machine](General%20Skills/timemachine-solve.md)|
 | General Skills |[Blame Game](General%20Skills/blamegame-solve.md)|
 | General Skills |[Collaborative Development](General%20Skills/collaborative-solve.md)|
-| General Skills |[binhexa](General%20Skills/binhexa-solve.md)|
+| General Skills |[Binhexa](General%20Skills/binhexa-solve.md)|
 | General Skills |[Binary Search](General%20Skills/binarysearch-solve.md)|
-| General Skills |[endianness](General%20Skills/endianness-solve.md)|
-| General Skills |[dont-you-love-banners] ()|
+| General Skills |[Endianness](General%20Skills/endianness-solve.md)|
+| General Skills |[Dont-You-Love-Banners] ()|
 
 ## **Week 2**
 | **Category**    | **Challenge**                       |
