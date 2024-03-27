@@ -8,15 +8,15 @@ You download the challenge files here:
 - Read the chapter on Git from the picoPrimer here
 - You can 'checkout' commits to see the files inside them
   
-![ssh](./images/commit.PNG)
+![commit](./images/commit.PNG)
 ## **Solution**
 - When im extracting the challenge.zip it contain a message.txt then i use cat to display the content of the file
-![ssh1](./images/ssh1.PNG)
+![commit1](./images/commit1.PNG)
 - This is not the flag and Then I see the hint number 2 & 3
 - Seeing the hint, I immediately looked for a command about "checkout" then I found this\
-![ssh1](./images/ssh1.PNG)
+![commit2](./images/commit2.PNG)
 - Then I run the commands $ git log to see all the “save point” and the commit id
-![ssh1](./images/ssh1.PNG)
+![commit3](./images/commit3.PNG)
 - The second commit seems suspicious, so I go to that repository with $ git checkout <id> then display the content message.txt once again with cat.
 - And We got the Flag
 ```
