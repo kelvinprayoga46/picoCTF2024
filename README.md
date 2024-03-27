@@ -34,3 +34,9 @@ List of challenge I solved
 | Binary Exploitation |[format string 0] ()|
 | Binary Exploitation |[heap 0] ()|
 
+| Category       | Challenge                          |
+| -------------- | ---------------------------------- |
+| <span style="background-color:#f7c6c5;">General Skills</span> | <span style="background-color:#f7c6c5;">[Super SSH](General%20Skills/superssh-solve.md)</span> |
+| <span style="background-color:#f7d5f2;">General Skills</span> | <span style="background-color:#f7d5f2;">[Commitment Issues](General%20Skills/commit-solve.md)</span> |
+
+
