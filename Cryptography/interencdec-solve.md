@@ -1,20 +1,27 @@
-# **Super SSH**
+# **Interencdec**
 ## **Description**
-Using a Secure Shell (SSH) is going to be pretty important. 
-Can you ssh as ctf-player to titan.picoctf.net at port 60572 to get the flag?
-You'll also need the password 1ad5be0d. If asked, accept the fingerprint with yes.
-If your device doesn't have a shell, you can use: https://webshell.picoctf.org
-If you're not sure what a shell is, check out our Primer: https://primer.picoctf.com/#_the_shell
+Can you get the real meaning from this file.
+
+Download the file [here.](https://artifacts.picoctf.net/c_titan/2/enc_flag)
 ## **Hint**
-- https://linux.die.net/man/1/ssh
-- You can try logging in 'as' someone with <user>@titan.picoctf.net
-- How could you specify the port?
-- Remember, passwords are hidden when typed into the shell
+- Engaging in various decoding processes is of utmost importance
   
-![ssh](./images/Super%20SSH.PNG)
+![inter](./images/inter.PNG)
 ## **Solution**
-- On this challage we only need to do ssh on account that has been provided.
-![ssh1](./images/ssh1.PNG)
+- First, cat the file that has been downloaded via the link above
+
+![inter](./images/inter1.PNG)
+- we know that the file contains base64 ciphertext.
+- to decrypt it use the following command
+``` echo "YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclh6YzRNalV3YUcxcWZRPT0nCg==" | base64 -d ```
+- after that, decrypt it again using base64
+``` echo "d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzc4MjUwaG1qfQ==" | base64 -d ```
+- the code generated then, in my opinion, is the result of encryption from ROT13
+- 
+![inter](./images/inter2.PNG)
+- Use [Cyberchef](https://gchq.github.io/CyberChef/) or [Cryptii](https://cryptii.com/) web to decrypt it
+
+![inter](./images/inter3.PNG)
 - And We got flag
 ```
 picoCTF{s3cur3_c0nn3ct10n_8306c99d}
