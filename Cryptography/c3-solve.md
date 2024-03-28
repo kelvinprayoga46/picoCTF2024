@@ -71,5 +71,5 @@ print("picoCTF{"+message+"}")
   ![c3](./images/c32.PNG)
 - And We got flag
 ```
-picoCTF{custom_d2cr0pt6d_8b41f976}
+picoCTF{adlibs}
 ```
