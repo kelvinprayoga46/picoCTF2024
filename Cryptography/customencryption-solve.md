@@ -48,7 +48,7 @@ if __name__ == "__main__":
         test_decrypt(cipher_text, shared_key, text_key)
 
 ```  
-  ![custom](./images/custom2.PNG)
+   ![custom](./images/custom2.PNG)
 - The code I used still produced a ciphertext
 - But take it easy, the results are still easy to decrypt using the Backward Reverse direction tool
 
