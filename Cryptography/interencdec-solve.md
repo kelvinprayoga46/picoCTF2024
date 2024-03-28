@@ -24,6 +24,6 @@ Download the file [here.](https://artifacts.picoctf.net/c_titan/2/enc_flag)
 ![inter](./images/inter3.PNG)
 - And We got flag
 ```
-picoCTF{s3cur3_c0nn3ct10n_8306c99d}
+picoCTF{caesar_d3cr9pt3d_78250afc}
 ```
 
