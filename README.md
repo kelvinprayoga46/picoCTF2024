@@ -22,9 +22,9 @@ List of challenge I solved
 | Cryptography |[Custom Encryption](Cryptography/customencryption-solve.md)|
 | Cryptography |[C3](Cryptography/c3-solve.md)|
 | Web Exploitation |[Bookmarklet](Web%20Exploitation/bookmarklet-solve.md)|
-| Web Exploitation |[WebDecode](Web%20Exploitation/webdecode-solve.md)|
+| Web Exploitation |[Web Decode](Web%20Exploitation/webdecode-solve.md)|
 | Web Exploitation |[Unminify](Web%20Exploitation/unminify-solve.md)|
-| Web Exploitation |[IntroToBurp](Web%20Exploitation/introtoburp-solve.md)|
+| Web Exploitation |[Intro To Burp](Web%20Exploitation/introtoburp-solve.md)|
 
 ## **Week 3**
 | **Category**    | **Challenge**                       |
