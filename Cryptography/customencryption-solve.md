@@ -55,5 +55,5 @@ if __name__ == "__main__":
   ![custom](./images/custom3.PNG)
 - And We got flag
 ```
-picoCTF{s3cur3_c0nn3ct10n_8306c99d}
+picoCTF{custom_d2cr0pt6d_8b41f976}
 ```
