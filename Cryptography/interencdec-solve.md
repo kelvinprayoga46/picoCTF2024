@@ -17,7 +17,7 @@ Download the file [here.](https://artifacts.picoctf.net/c_titan/2/enc_flag)
 - after that, decrypt it again using base64
 ``` echo "d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzc4MjUwaG1qfQ==" | base64 -d ```
 - the code generated then, in my opinion, is the result of encryption from ROT13
-- 
+
 ![inter](./images/inter2.PNG)
 - Use [Cyberchef](https://gchq.github.io/CyberChef/) or [Cryptii](https://cryptii.com/) web to decrypt it
 
